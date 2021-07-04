@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1625395042 source:e:\santi\facultad\programacion i\tp_final\main.c
+	<stdio.h>
+	"usuario.h"
+	"usuario_comun.h"
+	"auth.h"
+
+1625394938 e:\santi\facultad\programacion i\tp_final\usuario.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utilidades.h"
+	"contenido.h"
+
+1625389482 e:\santi\facultad\programacion i\tp_final\utilidades.h
+
+1625391552 e:\santi\facultad\programacion i\tp_final\contenido.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utilidades.h"
+
+1625395115 e:\santi\facultad\programacion i\tp_final\usuario_comun.h
+
+1625394365 e:\santi\facultad\programacion i\tp_final\auth.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+	"usuario_comun.h"
+	"admin.h"
+	"mensajeria.h"
+
+1625389767 e:\santi\facultad\programacion i\tp_final\admin.h
+	"usuario.h"
+
+1625383915 e:\santi\facultad\programacion i\tp_final\mensajeria.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utilidades.h"
+	"usuario.h"
+
