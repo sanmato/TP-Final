@@ -28,6 +28,8 @@ void menuPrincipal()
 
 int main()
 {
+    ///datos admin: usr: admin ----- pass: 987654
+
     ///crearUsuario(); ///EJECUTAR EN CASO DE BORRAR EL ARCHIVO, CREA UN ARCHIVO USUARIO CON UN REGSITRO PRECARGADO.
 
 
